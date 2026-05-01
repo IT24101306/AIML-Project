@@ -1,0 +1,13 @@
+{
+  "name": "hotel-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Flask backend — use npm run dev to start (Python, not Node server.js)",
+  "scripts": {
+    "dev": "python app.py",
+    "dev:watch": "nodemon --exec python app.py --watch . --ext py,env"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
