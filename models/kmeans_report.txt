@@ -1,0 +1,19 @@
+============================================================
+KMEANS CLUSTERING REPORT
+============================================================
+Negative Reviews: 10159
+Features: 5204
+Inertia: 5328.5771731488285
+Silhouette: 0.1769355227736989
+
+Cluster Mapping:
+Cluster 0 -> Staff (2621)
+Cluster 1 -> Rooms (2118)
+Cluster 2 -> Food (4286)
+Cluster 3 -> Other (1134)
+
+Top Words:
+Cluster 0: dirty, bad, rude, room, not, hotel, nothing, worst, terrible, staff
+Cluster 1: not, room, hotel, good, not clean, staff, clean, poor, location, small
+Cluster 2: room, not, hotel, nothing, poor, small, staff, bed, star, like
+Cluster 3: not, dirty, bad, room, hotel, rude, staff, good, worst, not clean
